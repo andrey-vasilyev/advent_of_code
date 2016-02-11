@@ -1,0 +1,3 @@
+**/*.beam
+ct/**
+!ct/test_SUITE.erl
