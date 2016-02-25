@@ -1,4 +1,4 @@
---- Day 22: Wizard Simulator 20XX ---
+##Day 22: Wizard Simulator 20XX
 
 Little Henry Case decides that defeating bosses with swords and stuff is boring. Now he's playing the game with a wizard. Of course, he gets stuck on another boss and needs your help again.
 
@@ -110,7 +110,8 @@ Poison deals 3 damage. This kills the boss, and the player wins.
 You start with 50 hit points and 500 mana points. The boss's actual stats are in your puzzle input. What is the least amount of mana you can spend and still win the fight? (Do not include mana recharge effects as "spending" negative mana.)
 
 Your puzzle answer was 953.
---- Part Two ---
+
+##Part Two
 
 On the next run through the game, you increase the difficulty to hard.
 

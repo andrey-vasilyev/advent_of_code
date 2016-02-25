@@ -1,4 +1,4 @@
---- Day 11: Corporate Policy ---
+##Day 11: Corporate Policy
 
 Santa's previous password expired, and he needs help choosing a new one.
 
@@ -23,7 +23,8 @@ For example:
 Given Santa's current password (your puzzle input), what should his next password be?
 
 Your puzzle answer was vzbxxyzz.
---- Part Two ---
+
+##Part Two
 
 Santa's password expired again. What's the next one?
 

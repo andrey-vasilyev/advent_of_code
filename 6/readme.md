@@ -1,4 +1,4 @@
---- Day 6: Probably a Fire Hazard ---
+##Day 6: Probably a Fire Hazard
 
 Because your neighbors keep defeating you in the holiday house decorating contest year after year, you've decided to deploy one million lights in a 1000x1000 grid.
 
@@ -17,7 +17,8 @@ For example:
 After following the instructions, how many lights are lit?
 
 Your puzzle answer was 569999.
---- Part Two ---
+
+##Part Two
 
 You just finish implementing your winning light pattern when you realize you mistranslated Santa's message from Ancient Nordic Elvish.
 

@@ -1,6 +1,6 @@
 #About
 
-These are my solutions written in Erlang for the tasks from [Advent of Code][http://adventofcode.com]
+These are my solutions written in Erlang for the tasks from [Advent of Code](http://adventofcode.com)
 
 I am still learning Erlang, so some solutions might not be optimal both code and performance wise.
 Also there is some code duplication in my solutions of similar tasks. I made it on purpose for anybody

@@ -1,4 +1,4 @@
---- Day 19: Medicine for Rudolph ---
+##Day 19: Medicine for Rudolph
 
 Rudolph the Red-Nosed Reindeer is sick! His nose isn't shining very brightly, and he needs medicine.
 
@@ -10,9 +10,9 @@ However, the machine has to be calibrated before it can be used. Calibration inv
 
 For example, imagine a simpler machine that supports only the following replacements:
 
-H => HO
-H => OH
-O => HH
+    H => HO
+    H => OH
+    O => HH
 
 Given the replacements above and starting with HOH, the following molecules could be generated:
 
@@ -29,7 +29,8 @@ The machine replaces without regard for the surrounding characters. For example,
 Your puzzle input describes all of the possible replacements and, at the bottom, the medicine molecule for which you need to calibrate the machine. How many distinct molecules can be created after all the different ways you can do one replacement on the medicine molecule?
 
 Your puzzle answer was 535.
---- Part Two ---
+
+##Part Two
 
 Now that the machine is calibrated, you're ready to begin molecule fabrication.
 
@@ -37,11 +38,11 @@ Molecule fabrication always begins with just a single electron, e, and applying 
 
 For example, suppose you have the following replacements:
 
-e => H
-e => O
-H => HO
-H => OH
-O => HH
+    e => H
+    e => O
+    H => HO
+    H => OH
+    O => HH
 
 If you'd like to make HOH, you start with e, and then make the following replacements:
 

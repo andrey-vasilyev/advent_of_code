@@ -1,4 +1,4 @@
---- Day 23: Opening the Turing Lock ---
+##Day 23: Opening the Turing Lock
 
 Little Jane Marie just got her very first computer for Christmas from some unknown benefactor. It comes with instructions and an example program, but the computer itself seems to be malfunctioning. She's curious what the program does, and would like you to help her run it.
 
@@ -17,15 +17,16 @@ The program exits when it tries to run an instruction beyond the ones defined.
 
 For example, this program sets a to 2, because the jio instruction causes it to skip the tpl instruction:
 
-inc a
-jio a, +2
-tpl a
-inc a
+    inc a
+    jio a, +2
+    tpl a
+    inc a
 
 What is the value in register b when the program in your puzzle input is finished executing?
 
 Your puzzle answer was 170.
---- Part Two ---
+
+##Part Two
 
 The unknown benefactor is very thankful for releasi-- er, helping little Jane Marie with her computer. Definitely not to distract you, what is the value in register b after the program is finished executing if register a starts as 1 instead?
 

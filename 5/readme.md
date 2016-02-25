@@ -1,4 +1,4 @@
---- Day 5: Doesn't He Have Intern-Elves For This? ---
+##Day 5: Doesn't He Have Intern-Elves For This?
 
 Santa needs help figuring out which strings in his text file are naughty or nice.
 
@@ -19,7 +19,8 @@ For example:
 How many strings are nice?
 
 Your puzzle answer was 258.
---- Part Two ---
+
+##Part Two
 
 Realizing the error of his ways, Santa has switched to a better model of determining whether a string is naughty or nice. None of the old rules apply, as they are all clearly ridiculous.
 

@@ -1,4 +1,4 @@
---- Day 21: RPG Simulator 20XX ---
+##Day 21: RPG Simulator 20XX
 
 Little Henry Case got a new video game for Christmas. It's an RPG, and he's stuck on a boss. He needs to know what equipment to buy at the shop. He hands you the controller.
 
@@ -10,27 +10,27 @@ Your damage score and armor score both start at zero. They can be increased by b
 
 Here is what the item shop is selling:
 
-Weapons:    Cost  Damage  Armor
-Dagger        8     4       0
-Shortsword   10     5       0
-Warhammer    25     6       0
-Longsword    40     7       0
-Greataxe     74     8       0
+    Weapons:    Cost  Damage  Armor
+    Dagger        8     4       0
+    Shortsword   10     5       0
+    Warhammer    25     6       0
+    Longsword    40     7       0
+    Greataxe     74     8       0
 
-Armor:      Cost  Damage  Armor
-Leather      13     0       1
-Chainmail    31     0       2
-Splintmail   53     0       3
-Bandedmail   75     0       4
-Platemail   102     0       5
+    Armor:      Cost  Damage  Armor
+    Leather      13     0       1
+    Chainmail    31     0       2
+    Splintmail   53     0       3
+    Bandedmail   75     0       4
+    Platemail   102     0       5
 
-Rings:      Cost  Damage  Armor
-Damage +1    25     1       0
-Damage +2    50     2       0
-Damage +3   100     3       0
-Defense +1   20     0       1
-Defense +2   40     0       2
-Defense +3   80     0       3
+    Rings:      Cost  Damage  Armor
+    Damage +1    25     1       0
+    Damage +2    50     2       0
+    Damage +3   100     3       0
+    Defense +1   20     0       1
+    Defense +2   40     0       2
+    Defense +3   80     0       3
 
 You must buy exactly one weapon; no dual-wielding. Armor is optional, but you can't use more than one. You can buy 0-2 rings (at most one for each hand). You must use any items you buy. The shop only has one of each item, so you can't buy, for example, two rings of Damage +3.
 
@@ -49,7 +49,8 @@ In this scenario, the player wins! (Barely.)
 You have 100 hit points. The boss's actual stats are in your puzzle input. What is the least amount of gold you can spend and still win the fight?
 
 Your puzzle answer was 91.
---- Part Two ---
+
+##Part Two
 
 Turns out the shopkeeper is working with the boss, and can persuade you to buy whatever items he wants. The other rules still apply, and he still only has one of each item.
 

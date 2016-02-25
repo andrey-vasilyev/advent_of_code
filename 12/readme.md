@@ -1,4 +1,4 @@
---- Day 12: JSAbacusFramework.io ---
+##Day 12: JSAbacusFramework.io
 
 Santa's Accounting-Elves need help balancing the books after a recent order. Unfortunately, their accounting software uses a peculiar storage format. That's where you come in.
 
@@ -16,7 +16,8 @@ You will not encounter any strings containing numbers.
 What is the sum of all numbers in the document?
 
 Your puzzle answer was 156366.
---- Part Two ---
+
+##Part Two
 
 Uh oh - the Accounting-Elves have realized that they double-counted everything red.
 

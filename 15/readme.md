@@ -1,4 +1,4 @@
---- Day 15: Science for Hungry People ---
+##Day 15: Science for Hungry People
 
 Today, you set out on the task of perfecting your milk-dunking cookie recipe. All you have to do is find the right balance of ingredients.
 
@@ -29,7 +29,8 @@ Multiplying these together (68 * 80 * 152 * 76, ignoring calories for now) resul
 Given the ingredients in your kitchen and their properties, what is the total score of the highest-scoring cookie you can make?
 
 Your puzzle answer was 222870.
---- Part Two ---
+
+##Part Two
 
 Your cookie recipe becomes wildly popular! Someone asks if you can make another recipe that has exactly 500 calories per cookie (so they can use it as a meal replacement). Keep the rest of your award-winning process the same (100 teaspoons, same ingredients, same scoring system).
 
